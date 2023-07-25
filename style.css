@@ -1,0 +1,97 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: rgb(107, 107, 245);
+    background-size: 280%;
+    background-position: -400px 0px;
+}
+div.main
+{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+div.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 7px 7px 15px rgba(0,0,0,0.3);
+    font-size: 18px;
+    border: 1px soid rgba(255,255,255,0.3);
+    color: #fff;
+    
+}
+
+
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+form#register{
+    margin: 40px;
+}
+label{
+    font-style: italic;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+input#name{
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+    outline: 0;
+    padding: 7px;
+    background-color: #fff;
+}
+input#submit{
+    width: 200px;
+    padding: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 800;
+    background-color: rgb(233, 169, 20);
+    border-radius: 8px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 5px black;
+    -webkit-text-stroke: 1px 1px 1px black;
+}
+label,span,h2{
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
